@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(50,122,167);
+    padding: 20px 20px 20px ;
+    margin: 0;
+}
+h1, h2, h3 {
+    color: rgb(255,255,255)
+    font-family: "Arial", "Palatino Linotype", Times, serif;
+    border-bottom: 2px solid rgb(87,185,178);
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+p {
+    color: rgba(255,255,255,.6);
+    font-size: 1em;
+    font-family: "Varela Round", "Helvetica", sans-serif;
+}
+
